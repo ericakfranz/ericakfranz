@@ -16,8 +16,8 @@
 [![venmo @theeeecaptain](https://raw.githubusercontent.com/ericakfranz/ericakfranz/main/bmas-button.png)](https://account.venmo.com/u/TheeeeCaptain)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericakfranz&theme=vision-friendly-dark&show_icons=1&include_all_commits=1&count_private=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericakfranz&theme=dracula&show_icons=1&include_all_commits=1&count_private=1" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericakfranz&layout=compact&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericakfranz&theme=dracula" />
 </a>
