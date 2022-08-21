@@ -4,15 +4,15 @@
 **ericakfranz/ericakfranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🤖 FREELANCING: at [Fat Pony](https://fatpony.me) (WordPress & Shopify Sites)
-- 💬 WORKING: at [OptinMonster](https://optinmonster.com) (Technical Support)
-- 🎨 CREATING ART: at [Captain Erica](https://shop.captainerica.com)
-- 🌱 LEARNING: [React](https://reactjs.org/), how to bodyboard, and how to use Watercolors
-- 📖 READING: [Psycho-Cybernetics](https://amzn.to/3c8zPGG), [Tender is the Flesh](https://amzn.to/3cdNPyL), [Marcus Aurelius: Meditations](https://amzn.to/3c9iMUR), [Make Something Up: Stories You Can't Unread](https://amzn.to/3pwelqe)
-- 📫 REACH ME: [Email](https://captainerica.com/contact) | [Twitter](https://twitter.com/theeeecaptain) | [Instagram](https://instagram.com/theeeecaptain)
+- 🤖 I’m currently freelancing at [Fat Pony](https://fatpony.me) (WordPress & Shopify Sites)
+- 💬 I'm currently working at [OptinMonster](https://optinmonster.com) (Technical Support)
+- 🎨 I'm currently creating art at [Captain Erica](https://shop.captainerica.com)
+- 🌱 I’m currently learning [React](https://reactjs.org/), how to bodyboard, and how to use Watercolors
+- 📖 I'm currently reading: [Psycho-Cybernetics](https://amzn.to/3c8zPGG), [Tender is the Flesh](https://amzn.to/3cdNPyL), [Marcus Aurelius: Meditations](https://amzn.to/3c9iMUR), [Make Something Up: Stories You Can't Unread](https://amzn.to/3pwelqe)
+- 📫 How to reach me: [Email](https://captainerica.com/contact) | [Twitter](https://twitter.com/theeeecaptain) | [Instagram](https://instagram.com/theeeecaptain)
 - 🥩 Ask me about the [Raw Carnivore Diet](https://captainerica.com/youtube)
 
-#### If something I've worked on has helped you in an appreciable manner, consider donating a steak to keep me fueled. :heart:
+##### If something I've worked on has helped you in an appreciable manner, consider donating a steak to keep me fueled. :heart:
 [![venmo @theeeecaptain](https://raw.githubusercontent.com/ericakfranz/ericakfranz/main/bmas-button.png)](https://account.venmo.com/u/TheeeeCaptain)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
