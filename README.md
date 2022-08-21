@@ -12,7 +12,7 @@
 - 📫 How to reach me: [Email](https://captainerica.com/contact) | [Twitter](https://twitter.com/theeeecaptain) | [Instagram](https://instagram.com/theeeecaptain)
 - 🥩 Ask me about the [Raw Carnivore Diet](https://captainerica.com/youtube)
 
-### If something I've worked on has helped you in an appreciable manner, consider donating a steak to keep me fueled. :heart:
+#### If something I've worked on has helped you in an appreciable manner, consider donating a steak to keep me fueled. :heart:
 [![venmo @theeeecaptain](https://raw.githubusercontent.com/ericakfranz/ericakfranz/main/bmas-button.png)](https://account.venmo.com/u/TheeeeCaptain)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
