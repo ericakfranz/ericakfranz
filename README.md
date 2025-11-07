@@ -3,7 +3,7 @@
 <!--
 **ericakfranz/ericakfranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+<!--
 - 🤖 I’m currently building websites at [Fat Pony](https://fatpony.me) (WordPress & Shopify Sites)
 - 💬 I'm currently working at [OptinMonster](https://optinmonster.com) (Customer Success Manager)
 - 🎨 I'm currently creating art at [Captain Erica](https://captainerica.com/shop)
@@ -19,3 +19,4 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericakfranz&theme=dracula" />
 </a>
+-->
